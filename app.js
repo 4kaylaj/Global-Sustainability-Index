@@ -5,7 +5,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/views/GlobalSustainabilityIndex/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/shared/Z28XGQSXP?:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
